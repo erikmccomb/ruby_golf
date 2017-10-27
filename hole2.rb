@@ -1,3 +1,5 @@
+# OPTIMIZE, but done
+
 def rps
   u = gets.chomp
   a = ['rock','paper','scissors']
